@@ -7,7 +7,7 @@ import com.GroceryStore.console.UI;
 
 public class Main {
     public static void main(String[] args) {
-        Store store = new Store("Cliff's store");
+        Store store = new Store("Richie's store");
         UI ui = new UI();
 
 //        System.out.println(store.getBalance());
